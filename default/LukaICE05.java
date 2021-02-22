@@ -1,4 +1,3 @@
-
 public class LukaICE05 {
 	
 	
@@ -7,5 +6,6 @@ public class LukaICE05 {
 		for (int i=0; i <= 10; i++) {
 			System.out.print("Number is " + i);
 		}
+		return 10;
 	}
 }
